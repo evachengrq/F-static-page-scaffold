@@ -6,3 +6,7 @@
 1. <body>
 2. <header> <main>
 3. bg-colour
+
+1. <header>
+2. left: <h1> <button>; right: <nav>; margin
+3. bg-color text-color button-color 

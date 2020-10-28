@@ -19,3 +19,32 @@ ul {
   margin: 0;
   padding: 0;
 }
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  background-color: #3b5998;
+  color: white;
+  padding: 20px 150px;
+}
+
+.logo-and-sign-up {
+  display: flex;
+}
+
+.logo-and-sign-up h1 {
+  margin: 0;
+  padding: 0;
+  margin-right: 10px;
+}
+
+.logo-and-sign-up button {
+  background-color: #42b72a;
+  color: white;
+  border-style: none;
+  width: 60px;
+}
+
+.header-nav {
+  align-self: center;
+}
