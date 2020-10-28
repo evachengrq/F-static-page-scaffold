@@ -48,3 +48,7 @@ ul {
 .header-nav {
   align-self: center;
 }
+
+.main-content {
+  padding: 20px 150px;
+}

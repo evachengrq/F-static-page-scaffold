@@ -9,4 +9,8 @@
 
 1. <header>
 2. left: <h1> <button>; right: <nav>; margin
-3. bg-color text-color button-color 
+3. bg-color text-color button-color
+
+1. <main>
+2. <h2> <p> <section>
+3. margin 
