@@ -52,3 +52,33 @@ ul {
 .main-content {
   padding: 20px 150px;
 }
+
+.create-your-page {
+  display: flex;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.create-your-page li {
+  background-color: white;
+  text-align: center;
+  padding: 20px;
+  width: 480px;
+}
+
+.create-your-page li:first-child {
+  margin-right: 20px;
+}
+
+.create-your-page h5 {
+  font-size: 18px;
+}
+
+.create-your-page p {
+  color: gray;
+  margin-bottom: 80px;
+}
+
+.create-your-page button {
+  padding: 5px 10px;
+}
